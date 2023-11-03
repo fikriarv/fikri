@@ -1,8 +1,9 @@
-import React from 'react';
-
+import Navbar from "./components/Navbar"
 const Profil = () => {
-  return (
-    <div>Profil Fikri</div>
+  return (  <>
+    <Navbar/>
+    <h1>Profil Fikri</h1>
+    </>
   );
 };
 
