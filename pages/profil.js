@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar"
 const Profil = () => {
   return (  <>
     <Navbar/>
-    <h1>Profil Fikri</h1>
+    <h1>Profil </h1>
     </>
   );
 };
